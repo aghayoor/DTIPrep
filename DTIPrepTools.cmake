@@ -40,7 +40,6 @@ find_package(ITK COMPONENTS
   ITKRegistrationCommon
   ITKOptimizersv4
   ITKConnectedComponents
-  ITKV3Compatibility
   ITKMathematicalMorphology
   ITKBinaryMathematicalMorphology
   ITKRegionGrowing
